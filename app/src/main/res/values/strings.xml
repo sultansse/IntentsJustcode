@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentsJustcode</string>
+    <string name="hint">input second count</string>
+</resources>
